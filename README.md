@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A Computer Science student with a passion for backend development. Currently, I am focused on enhancing my skills in backend development using Laravel.</h3>
 
-- 🌱 I’m currently learning  Laravel and its ecosystem, along with related technologies like Livewire, Inertia.js, Vue.js, and Tailwind CSS. I love exploring new ways to build efficient and scalable web applications. 
+- 🌱 I'm currently learning Laravel, API-REST, along with frontend related technologies such as Livewire, Inertia.js, Vue.js and Tailwind CSS. I love exploring new ways to create efficient and scalable web applications.
 
 - 📫 How to reach me **quirogasantini.nicolas@gmail.com**
 - 💼 Looking for a job
