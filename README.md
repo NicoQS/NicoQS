@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning  Laravel and its ecosystem, along with related technologies like Livewire, Inertia.js, Vue.js, and Tailwind CSS. I love exploring new ways to build efficient and scalable web applications. 
 
 - 📫 How to reach me **quirogasantini.nicolas@gmail.com**
+- 💼 Looking for a job
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
