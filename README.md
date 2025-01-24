@@ -37,4 +37,6 @@
 <hr>
 
 <h3 align="left">Projects</h3>
-- 
+- https://exposanjuan.netlify.app/
+- https://saboresunicos.netlify.app/
+- https://barber-tattoo.netlify.app/
