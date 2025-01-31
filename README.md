@@ -37,6 +37,8 @@
 <hr>
 
 <h3 align="left">Projects</h3>
-- https://exposanjuan.netlify.app/
-- https://saboresunicos.netlify.app/
-- https://barber-tattoo.netlify.app/
+<h4>ExpoCalidad de Vida (Vue.js): https://exposanjuan.netlify.app/</h4>
+<h4>Sabores Unicos - Landing Page de Restaurante: https://saboresunicos.netlify.app/</h4>
+<h4>Tattoo Skills - Local de barberia y tatuajes con el fin de dar a conocer sus profesionales: https://barber-tattoo.netlify.app/</h4>
+<h4>TurnosBarberia - Api desarrollada en laravel 11 que permite sacar turnos con diferentes barberos y cuenta con diferentes usuarios (Cliente, Barbero, Administrador) entre otras funcionalidades y caracteristicas: Repo priv</h4>
+<h4>Manga-Shop - Api desarrollada en laravel 11 que permite gestionar toda la informacion relacionada a los Mangas de una tienda, mas informacion en el repositorio: https://github.com/NicoQS/manga-shop</h4>
