@@ -42,5 +42,5 @@
 <h4>Tattoo Skills - Local de barberia y tatuajes con el fin de dar a conocer sus profesionales: https://barber-tattoo.netlify.app/</h4>
 <h4>TurnosBarberia - API REST con Laravel (11) que permite sacar turnos con distintos barberos y cuenta con diferentes usuarios (Cliente, Barbero, Administrador) entre otras funcionalidades y caracteristicas asociado a cada tipo de usuario: Repo priv</h4>
 <h4>Manga-Shop - API REST con Laravel (11) que permite gestionar toda la informacion relacionada a los Mangas de una tienda, mas informacion en el repositorio: https://github.com/NicoQS/manga-shop</h4>
-<h4>TICO: Tótem Interactivo de Cobro (Actualmente en desarrollo)
+<h4>TICO: Tótem Interactivo de Cobro (Actualmente en desarrollo)<br>
 Sistema de autoservicio diseñado para optimizar los procesos de pago y mejorar la experiencia del usuario en un comercio, por ejemplo en este caso un Kiosco. Implementado como una API REST en Laravel 11, permite a los clientes realizar compras en línea , retiro en local, compras presenciales y pagos automatizados a través de una interfaz intuitiva. Además, integra funcionalidades como gestión de clientes, órdenes, puntos de fidelización y promociones, utilizando Filament para la administración y el apartado del cliente será desarrollado con Vue.js (Vue 3)</h4>
