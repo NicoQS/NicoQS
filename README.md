@@ -40,29 +40,28 @@
 
 <h3 align="left">Projects</h3>
 
-- **Expo Calidad de Vida (Vue.js)**  
-  https://exposanjuan.netlify.app/
+- **Expo Calidad de Vida (Vue.js)** https://exposanjuan.netlify.app/
 
-- **Sabores Únicos – Landing Page de restaurante**  
-  https://saboresunicos.netlify.app/
 
-- **Tattoo Skills – Sitio para barbería y tatuajes**  
-  https://barber-tattoo.netlify.app/
+- **Sabores Únicos – Landing Page de restaurante** https://saboresunicos.netlify.app/
+
+
+- **Tattoo Skills – Sitio para barbería y tatuajes** https://barber-tattoo.netlify.app/
+
 
 - **TurnosBarberia** – API REST con Laravel 11 para gestión de turnos (roles: Cliente, Barbero, Administrador). *(Privado)*
 
-- **Manga-Shop** – API REST con Laravel 11 para gestionar información de mangas.  
-  https://github.com/NicoQS/manga-shop
+- **Manga-Shop** – API REST con Laravel 11 para gestionar información de mangas. https://github.com/NicoQS/manga-shop
 
 - **TICO: Tótem Interactivo de Cobro** *(en desarrollo)*  
   Sistema de autoservicio en Laravel 11 con Filament y Vue 3, que permite compras en línea, retiro en local y pagos presenciales, además de gestión de clientes, órdenes, puntos de fidelización y promociones.
 
-- **Sistema de Gestión y E-commerce para Electricidad del Este**  
+- **Sistema de Gestión y E-commerce para Electricidad del Este**
   Desarrollo con Laravel 12 y FilamentPHP 3.2 desplegado en un VPS, que incluye:  
   - Panel administrativo multinivel (Admin, Empleados, Repartidores)  
   - Tienda online con filtrado y búsqueda avanzada  
   - Integración con Mercado Pago  
   - Generación automática de PDFs para órdenes y tickets  
   - Pedidos con múltiples estados y notificaciones  
-  - Arquitectura modular siguiendo los patrones de Laravel
-    https://www.edeleste.com
+  - Arquitectura modular siguiendo los patrones de Laravel.
+  - https://www.edeleste.com
