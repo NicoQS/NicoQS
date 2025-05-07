@@ -44,3 +44,12 @@
 <h4>Manga-Shop - API REST con Laravel (11) que permite gestionar toda la informacion relacionada a los Mangas de una tienda, mas informacion en el repositorio: https://github.com/NicoQS/manga-shop</h4>
 <h4>TICO: Tótem Interactivo de Cobro (Actualmente en desarrollo)<br>
 Sistema de autoservicio diseñado para optimizar los procesos de pago y mejorar la experiencia del usuario en un comercio, por ejemplo en este caso un Kiosco. Implementado como una API REST en Laravel 11, permite a los clientes realizar compras en línea , retiro en local, compras presenciales y pagos automatizados a través de una interfaz intuitiva. Además, integra funcionalidades como gestión de clientes, órdenes, puntos de fidelización y promociones, utilizando Filament para la administración y el apartado del cliente será desarrollado con Vue.js (Vue 3)</h4>
+<h4>Sistema de Gestión y E-commerce para Electricidad del Este</h4>
+Desarrollo e implementación de sistema integral con Laravel 12 y FilamentPHP 3.2 para empresa de materiales eléctricos, desplegado en VPS. El proyecto incluye:
+- Panel administrativo multinivel con roles diferenciados (admin, empleados, repartidores)
+- Tienda online con sistema avanzado de filtrado y búsqueda de productos
+- Integración completa con Mercado Pago para procesamiento de pagos
+- Generación automática de PDFs para órdenes y tickets
+- Sistema de pedidos con múltiples estados y notificaciones
+- Arquitectura modular siguiendo patrones de diseño de Laravel
+La solución permitió al cliente ampliar su alcance comercial mientras optimiza sus procesos operativos de gestión de inventario y ventas.
