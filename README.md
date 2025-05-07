@@ -64,4 +64,5 @@
   - Integración con Mercado Pago  
   - Generación automática de PDFs para órdenes y tickets  
   - Pedidos con múltiples estados y notificaciones  
-  - Arquitectura modular siguiendo los patrones de Laravel  
+  - Arquitectura modular siguiendo los patrones de Laravel
+    https://www.edeleste.com
