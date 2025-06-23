@@ -32,7 +32,7 @@
 
 <h3 align="left">Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoQS&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoQS&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoQS&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
