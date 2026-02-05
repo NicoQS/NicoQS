@@ -11,7 +11,7 @@ Backend / Full Stack Developer · Computer Science Student · Laravel & SaaS Ent
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student (4th year) and University Programming Technician  
+- 🎓 Computer Science student (5th year) and University Programming Technician  
 - 🧠 Strong focus on **backend development**, clean architecture and scalable systems  
 - 🏗️ Experience building **production-ready applications**, including **SaaS, e-commerce and internal management systems**  
 - 💳 Hands-on experience integrating **payment gateways (Mercado Pago)**, subscriptions and webhooks  
@@ -50,15 +50,6 @@ Backend / Full Stack Developer · Computer Science Student · Laravel & SaaS Ent
 
 **Other tools & concepts:**  
 REST APIs · FilamentPHP · Inertia.js · TypeScript · Mercado Pago SDK · Webhooks · Multi-tenancy · Authentication & Roles · PDF generation · VPS deployment
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoQS&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoQS&layout=compact&theme=dracula" height="150" />
-</div>
 
 ---
 
@@ -120,7 +111,7 @@ REST APIs · FilamentPHP · Inertia.js · TypeScript · Mercado Pago SDK · Webh
 
 - Backend & Full Stack roles
 - SaaS products
-- Clean architecture & scalable systems
+- Scalable systems
 - Laravel ecosystem & modern frontend stacks
 
 Thanks for stopping by! 🚀
