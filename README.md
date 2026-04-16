@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=280&section=header&text=Nicolás%20Quiroga%20Santini&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Dev%20%7C%20Computer%20Science%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=280&section=header&text=Nicolás%20Quiroga%20Santini&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Developer%20%7C%20Estudiante%20de%20Ciencias%20de%20la%20Computación&descAlignY=55&descAlign=50&fontColor=FFFFFF"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=FullStack+Developer;Laravel+(v11%2F12)+%2B+FilamentPHP;REST+APIs+%26+Integrations;Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=FullStack+Developer;Laravel+(v11%2F12)+%2B+FilamentPHP;REST+APIs+%26+Integraciones;Soluciones+Full-Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,94 +23,79 @@
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy **Nicolás**, Técnico Universitario en Programación y estudiante avanzado de Licenciatura en Ciencias de la Computación (5° año) en la Universidad Nacional de San Juan. Me enfoco en crear soluciones funcionales y seguras, con un fuerte enfoque en el desarrollo backend y arquitecturas escalables.
+Soy **Nicolás**, Técnico Universitario en Programación y estudiante avanzado (5° año) de la Licenciatura en Ciencias de la Computación en la UNSJ. Mi enfoque principal es el desarrollo **Backend**, donde disfruto diseñando lógicas complejas y sistemas seguros, aunque cuento con una sólida base **Full-Stack**.
 
-- 🚀 **Perfil Técnico:** Experiencia práctica en desarrollo con mayor enfoque backend, y frontend utilizando Laravel (v11/12), FilamentPHP y Vue.js.
-- 🏗️ **Experiencia Real:** Construcción de aplicaciones listas para producción, incluyendo sistemas de gestión interna, e-commerce y plataformas SaaS multi-tenant.
-- 💳 **Integraciones:** Amplia experiencia en integración de pagos con Mercado Pago, consumo y desarrollo de APIs REST, y manejo de webhooks.
-- 🎯 **Objetivo:** Busco crecer profesionalmente, aportando compromiso y responsabilidad en cada desafío.
-
----
-
-### 💼 Experiencia Profesional
-
-- 💻 **Desarrollador Fullstack Independiente / Equipo** *(Octubre 2023 - Actualidad)* 
-  Desarrollo y despliegue de plataformas empresariales, e-commerce y sistemas SaaS en entornos productivos.
-- 🏢 **Desarrollador Full Stack Junior en WES** *(Mayo 2025 - Julio 2025 | Pasantía)* 
-  Desarrollo de interfaces y endpoints para software de control por centro de costos de obras. Participé en ABM de movilidades, peer review, estimación de funcionalidades y exportación de datos.
-
----
-
-### 💡 Habilidades Técnicas
-
-- **Arquitectura y Backend:** Diseño de APIs RESTful, sistemas multi-tenancy, autenticación y control de accesos granulares, roles/permisos, y generación automática de PDFs.
-- **Infraestructura y DevOps:** Despliegue de aplicaciones en VPS, manejo básico de servidores Linux y control de versiones con Git.
-- **Frontend:** Construcción de SPAs e interfaces dinámicas utilizando Inertia.js, reactividad y diseño responsivo.
-- **Bases de Datos:** Modelado relacional, diseño y optimización de consultas.
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="left">
-
-**Lenguajes**<br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-
-**Backend & Herramientas**<br/>
-<img src="https://img.shields.io/badge/Laravel_11%2F12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/FilamentPHP-EAB308?style=flat-square&logo=laravel&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%2FVPS-FCC624?style=flat-square&logo=linux&logoColor=black" /> 
-
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vue.dot.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> 
-
-</div>
+- 🔭 **Experiencia:** Desarrollo de aplicaciones en producción, desde sistemas de gestión interna hasta plataformas e-commerce y SaaS.
+- 🛠️ **Especialidad:** Ecosistema **Laravel (11/12)**, **FilamentPHP** e integraciones de pago con **Mercado Pago**.
+- 🎯 **Objetivo:** Seguir aportando valor en equipos de desarrollo profesionales mientras finalizo mi formación académica.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-#### 🧩 [TurnexApp](https://www.turnexapp.com) — Sistema SaaS de Gestión de Citas Multi-tenant 
-> Plataforma web empresarial para gestión integral de reservas con arquitectura escalable.
-- **Tecnologías:** Laravel 12, PHP 8.3, Vue 3, TypeScript, Inertia.js, Tailwind CSS, Filament, MySQL, Vite, PWA.
-- **Características:** Implementa modelo de negocio SaaS con suscripciones de Mercado Pago, portal público por subdominios, autenticación 2FA y notificaciones automatizadas.
-
 #### ⚡ [Electricidad del Este](https://www.edeleste.com) — E-commerce & Sistema de Gestión
-> Diseño, desarrollo y despliegue completo en entorno productivo (VPS).
-- **Tecnologías:** Laravel 12, FilamentPHP, Vue.js.
-- **Características:** Panel administrativo multinivel con control de permisos, tienda online con filtros avanzados, generación de PDFs e integración de API/Webhooks de Mercado Pago.
+> Desarrollo y despliegue integral en entorno VPS.
+- **Stack:** Laravel 12, FilamentPHP, Vue.js.
+- **Impacto:** Panel administrativo multinivel, gestión de pedidos en tiempo real e integración completa con API de Mercado Pago y Webhooks.
 
-#### 🧾 TICO — Kiosco de Pago Interactivo
-> Plataforma self-service para puntos de venta físicos y digitales.
-- **Tecnologías:** Laravel, Filament, Vue.js. Enfoque en gestión de clientes y compras interactivas.
-
----
-
-### 🧪 Proyectos Secundarios y APIs
-
-- **Manga-Shop API** – API REST para gestión de inventarios. 
-- **TurnosBarberia API** – API para gestión de citas *(Privado)*.
-- **Expo Calidad de Vida** – Web informativa para eventos *(Vue.js)*.
-- **Sabores Únicos** – Landing page para restaurante *(Vue.js)*. 
-- **Tattoo Skills** – Web para estudio de tatuajes y barbería *(Vue.js)*. 
+#### 🧩 [TurnexApp](https://www.turnexapp.com) — Plataforma SaaS Multi-tenant
+> Sistema para gestión integral de reservas y citas con arquitectura escalable.
+- **Stack:** Laravel 12, PHP 8.3, Vue 3, TypeScript, Inertia.js, Filament.
+- **Impacto:** Implementa modelo de negocio SaaS con suscripciones de Mercado Pago, portal público por subdominios, autenticación 2FA y notificaciones automatizadas.
 
 ---
 
-### 📊 Estadísticas en GitHub
+### 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoQS&theme=dark&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4F46E5&sideLabels=FFFFFF&dates=FFFFFF" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoQS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" height="150" alt="languages graph" />
+
+| Backend & DB | Frontend | Herramientas |
+| :--- | :--- | :--- |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.dot.js&logoColor=white) ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white) | ![Filament](https://img.shields.io/badge/FilamentPHP-EAB308?style=flat-square&logo=laravel&logoColor=black) ![VPS](https://img.shields.io/badge/Linux/VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+<br />
+
+<details>
+<summary><strong>💡 Habilidades Técnicas Detalladas</strong></summary>
+<br />
+<ul>
+  <li><strong>Backend:</strong> APIs RESTful, autenticación avanzada, control de accesos, generación de PDFs y manejo de colas.</li>
+  <li><strong>Integraciones:</strong> SDK de Mercado Pago (Pagos y Webhooks) y APIs de terceros.</li>
+  <li><strong>DevOps:</strong> Administración de servidores Linux, configuración de Nginx y despliegues en producción.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>💼 Experiencia y Educación</strong></summary>
+<br />
+<ul>
+  <li><strong>Pasantía en WES (Mayo - Julio 2025):</strong> Desarrollador Full Stack Junior. ABM de movilidades, endpoints y peer review para software de costos de obra.</li>
+  <li><strong>Educación:</strong> Lic. en Ciencias de la Computación (5to año) y Técnico Univ. en Programación - UNSJ.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>🧪 Otros Proyectos y APIs</strong></summary>
+<br />
+<ul>
+  <li><strong>TICO:</strong> Kiosco interactivo de pago con Laravel y Filament.</li>
+  <li><strong>Manga-Shop API:</strong> Gestión de inventarios <a href="https://github.com/NicoQS/manga-shop">(Repo)</a>.</li>
+  <li><strong>Expo Calidad de Vida:</strong> Web informativa <a href="https://exposanjuan.netlify.app/">(Visitar)</a>.</li>
+  <li><strong>Tattoo Skills:</strong> Web para estudio de tatuajes <a href="https://barber-tattoo.netlify.app/">(Visitar)</a>.</li>
+  <li><strong>Sabores Únicos:</strong> Landing page gastronómica <a href="https://saboresunicos.netlify.app/">(Visitar)</a>.</li>
+</ul>
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoQS&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoQS&locale=es&layout=compact&card_width=320&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br />
