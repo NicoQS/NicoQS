@@ -199,43 +199,51 @@ Universidad Nacional de San Juan · 2021 – 2024
 
 ## 📊 GitHub Stats
 
-> Las estadísticas se generan mediante GitHub Actions y se almacenan directamente en este repositorio.
-
 <div align="center">
 
-<img
-  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
-
-<br /><br />
-
-<img
-  src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  width="49%"
-  alt="Repositories per Language"
-/>
-
-<img
-  src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  width="49%"
-  alt="Most Commit Language"
-/>
-
-<br /><br />
-
-<img
-  src="./profile-summary-card-output/github_dark/3-stats.svg"
-  width="49%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-  width="49%"
-  alt="Productive Time"
-/>
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+          width="760"
+          alt="GitHub Profile Details"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+          width="380"
+          alt="Repositories per Language"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+          width="380"
+          alt="Most Commit Language"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/3-stats.svg"
+          width="380"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+          width="380"
+          alt="Productive Time"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
