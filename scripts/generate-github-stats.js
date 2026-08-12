@@ -123,10 +123,20 @@ function buildSVG(stats) {
   ];
 
   const width = 600;
-  const height = 260;
   const colWidth = width / 2;
-  const rowHeight = 70;
-  const startY = 92;
+
+  // Layout calculado por bloques (header + N filas + footer), en vez de
+  // numeros fijos: asi las filas y el footer nunca se pisan.
+  const headerHeight = 58; // titulo + linea separadora
+  const rowHeight = 72; // alto de banda por fila (label + valor centrados)
+  const numRows = 3;
+  const footerHeight = 54; // linea + texto "Last 12 months" + padding inferior
+  const height = headerHeight + numRows * rowHeight + footerHeight;
+
+  const rowsAreaTop = headerHeight;
+  const rowsAreaBottom = headerHeight + numRows * rowHeight;
+  const footerLineY = rowsAreaBottom + 10;
+  const footerTextY = footerLineY + 22;
 
   // Paleta Tokyo Night
   const bg = "#1a1b27";
@@ -142,25 +152,29 @@ function buildSVG(stats) {
     const col = i % 2;
     const row = Math.floor(i / 2);
     const cx = col * colWidth + colWidth / 2;
-    const y = startY + row * rowHeight;
+    const rowCenterY = headerHeight + row * rowHeight + rowHeight / 2;
 
     cellsSvg += `
-      <g transform="translate(${cx}, ${y})">
-        <text x="0" y="0" text-anchor="middle" font-size="14" font-family="${fontFamily}" fill="${labelColor}">${cell.icon} ${cell.label}</text>
-        <text x="0" y="28" text-anchor="middle" font-size="26" font-weight="700" font-family="${fontFamily}" fill="${valueColor}">${formatNumber(cell.value)}</text>
+      <g transform="translate(${cx}, ${rowCenterY})">
+        <text x="0" y="-6" text-anchor="middle" font-size="14" font-family="${fontFamily}" fill="${labelColor}">${cell.icon} ${cell.label}</text>
+        <text x="0" y="22" text-anchor="middle" font-size="26" font-weight="700" font-family="${fontFamily}" fill="${valueColor}">${formatNumber(cell.value)}</text>
       </g>`;
   });
+
+  let rowDividers = "";
+  for (let i = 1; i < numRows; i++) {
+    const y = headerHeight + i * rowHeight;
+    rowDividers += `<line x1="24" y1="${y}" x2="${width - 24}" y2="${y}" stroke="${border}" stroke-dasharray="2,3"/>\n  `;
+  }
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Activity - ultimos 12 meses">
   <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="12" fill="${bg}" stroke="${border}"/>
   <text x="${width / 2}" y="38" text-anchor="middle" font-size="20" font-weight="700" font-family="${fontFamily}" fill="${titleColor}">📊 GitHub Activity</text>
   <line x1="24" y1="52" x2="${width - 24}" y2="52" stroke="${border}"/>
-  <line x1="${width / 2}" y1="60" x2="${width / 2}" y2="${height - 40}" stroke="${border}" stroke-dasharray="2,3"/>
-  <line x1="24" y1="${startY + rowHeight - 25}" x2="${width - 24}" y2="${startY + rowHeight - 25}" stroke="${border}" stroke-dasharray="2,3"/>
-  <line x1="24" y1="${startY + 2 * rowHeight - 25}" x2="${width - 24}" y2="${startY + 2 * rowHeight - 25}" stroke="${border}" stroke-dasharray="2,3"/>
-  ${cellsSvg}
-  <line x1="24" y1="${height - 34}" x2="${width - 24}" y2="${height - 34}" stroke="${border}"/>
-  <text x="${width / 2}" y="${height - 14}" text-anchor="middle" font-size="12" font-family="${fontFamily}" fill="${footerColor}">Last 12 months</text>
+  <line x1="${width / 2}" y1="${rowsAreaTop + 8}" x2="${width / 2}" y2="${rowsAreaBottom - 8}" stroke="${border}" stroke-dasharray="2,3"/>
+  ${rowDividers}${cellsSvg}
+  <line x1="24" y1="${footerLineY}" x2="${width - 24}" y2="${footerLineY}" stroke="${border}"/>
+  <text x="${width / 2}" y="${footerTextY}" text-anchor="middle" font-size="12" font-family="${fontFamily}" fill="${footerColor}">Last 12 months</text>
 </svg>`;
 }
 
