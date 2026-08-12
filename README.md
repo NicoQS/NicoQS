@@ -197,9 +197,57 @@ Universidad Nacional de San Juan · 2021 – 2024
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<img src="./stats/github-activity.svg" alt="GitHub Activity">
+<div align="center">
+
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+          width="760"
+          alt="GitHub Profile Details"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="./stats/github-activity.svg"
+          width="760"
+          alt="GitHub Activity - últimos 12 meses"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+          width="380"
+          alt="Repositories per Language"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+          width="380"
+          alt="Most Commit Language"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+          width="380"
+          alt="Productive Time"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
