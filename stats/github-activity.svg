@@ -8,11 +8,11 @@
   
       <g transform="translate(150, 94)">
         <text x="0" y="-6" text-anchor="middle" font-size="14" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#9aa5ce">💻 Commits</text>
-        <text x="0" y="22" text-anchor="middle" font-size="26" font-weight="700" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#7aa2f7">876</text>
+        <text x="0" y="22" text-anchor="middle" font-size="26" font-weight="700" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#7aa2f7">26</text>
       </g>
       <g transform="translate(450, 94)">
         <text x="0" y="-6" text-anchor="middle" font-size="14" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#9aa5ce">🔀 Pull Requests</text>
-        <text x="0" y="22" text-anchor="middle" font-size="26" font-weight="700" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#7aa2f7">54</text>
+        <text x="0" y="22" text-anchor="middle" font-size="26" font-weight="700" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#7aa2f7">0</text>
       </g>
       <g transform="translate(150, 166)">
         <text x="0" y="-6" text-anchor="middle" font-size="14" font-family="'Segoe UI', Ubuntu, Verdana, sans-serif" fill="#9aa5ce">🐛 Issues</text>
